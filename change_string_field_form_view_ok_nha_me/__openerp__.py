@@ -12,7 +12,7 @@
     'depends': ['web'],
     'data': ['templates.xml'],
     'qweb': ['static/src/xml/formview.xml'],
-    'price': 165.00,
+    'price': 149.99,
     'currency': 'EUR',
     'installable': True,
     'auto_install': False,
